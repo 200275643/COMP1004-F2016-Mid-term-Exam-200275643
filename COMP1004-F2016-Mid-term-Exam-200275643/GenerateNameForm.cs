@@ -1,11 +1,11 @@
 ﻿
 /// <summary>
 /// App name: Midterm
-/// Author's name:Chandra Gundam(200275643).
-/// App	Creation Date:20-OCT-2016.
-/// App description: AbilityGeneratorForm is about generating random names with pictures.
+/// Author's name:Chandra Gundam(200275643)
+/// App	Creation Date:20-OCT-2016
+/// App description: AbilityGeneratorForm is about generating random names with pictures
 /// </summary>
-/// 
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
